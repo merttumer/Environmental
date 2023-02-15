@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Environmental", "Environmental\Environmental.csproj", "{A8FAE9F0-631D-4C3F-BEA0-6CE321B3B17D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Environmental.Test", "Environmental.Test\Environmental.Test.csproj", "{4790D493-F6A0-4DA5-9807-BC46EECD359B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Environmental.Test", "Environmental.Test\Environmental.Test.csproj", "{4790D493-F6A0-4DA5-9807-BC46EECD359B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
